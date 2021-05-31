@@ -19,10 +19,10 @@ Criando uma SPA usando a API da Marvel
 <p align="center"><img src="https://user-images.githubusercontent.com/14830626/120230176-2711f980-c225-11eb-9b11-0abd670c8123.jpg"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/14830626/120230222-41e46e00-c225-11eb-9cb0-c1c4d4eb4132.jpg"></p>
 
-Marvel API: https://developer.marvel.com
-PHP Docs: https://www.php.net/docs.php
-Bootstrap Docs: https://getbootstrap.com
-MDN: Javascript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+Marvel API: https://developer.marvel.com <br />
+PHP Docs: https://www.php.net/docs.php <br />
+Bootstrap Docs: https://getbootstrap.com <br />
+MDN: Javascript: https://developer.mozilla.org/en-US/docs/Web/JavaScript <br />
 
 ## :memo: Licença
 

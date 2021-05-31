@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
     integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-  <title>Marvel Comics API Search - Character</title>
+  <title>Pesquisa da API da marvel - Personagens</title>
 
   <link rel="stylesheet" href="style.css">
 </head>
@@ -16,7 +16,7 @@
 <body onload="character()">
   <div class="jumbotron">
     <div class="container">
-      <h1 class="header-main-title">Marvel Comics Character Search</h1>
+      <h1 class="header-main-title">Marvel pesquisa dos Personagens</h1>
       <form id="connectionForm">
 
         <div class="form-group">
